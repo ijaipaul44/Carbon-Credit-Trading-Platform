@@ -9,3 +9,5 @@ T
 $tests/carbon-credit-issuance.test.ts,9/3/93dc0e9b9f24ee49be37fbd6c70add0f4616c299
 T
 $contracts/carbon-credit-trading.clar,c/1/c1cef3aa3cffb6b51b5bddcfd25043d278315a4b
+S
+#tests/carbon-credit-trading.test.ts,7/e/7e5ecf48db6c35b41c7564489da481e78ede2168
