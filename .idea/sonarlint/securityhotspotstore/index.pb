@@ -7,3 +7,5 @@ U
 %contracts/carbon-credit-issuance.clar,1/c/1c9988e1f5a15b841e5ef97784957392c253b8c1
 T
 $tests/carbon-credit-issuance.test.ts,9/3/93dc0e9b9f24ee49be37fbd6c70add0f4616c299
+T
+$contracts/carbon-credit-trading.clar,c/1/c1cef3aa3cffb6b51b5bddcfd25043d278315a4b
