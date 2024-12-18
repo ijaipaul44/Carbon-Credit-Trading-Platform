@@ -1,0 +1,29 @@
+[project]
+name = 'Carbon-Credit-Trading-Platform'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.carbon-credit-issuance]
+path = 'contracts/carbon-credit-issuance.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.carbon-credit-token]
+path = 'contracts/carbon-credit-token.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.carbon-credit-trading]
+path = 'contracts/carbon-credit-trading.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
